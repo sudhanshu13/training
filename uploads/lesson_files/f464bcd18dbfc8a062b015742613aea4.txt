@@ -1,0 +1,54 @@
+<ul style="line-height: 22px;">
+<li><a href="https://www.healthynaturals.co/about-us">About Us</a></li>
+<li><a href="https://www.healthynaturals.co/contact-us">Contact Us</a></li>
+<li><a href="https://www.healthynaturals.co/order-tracking" style="color:#00c4a0">Track Your Order</a></li>
+</ul>
+
+
+
+<ul style="line-height: 22px;">
+	<li><a href="https://www.healthynaturals.co/payments">Payments</a></li>
+	<li><a href="https://www.healthynaturals.co/refund-policy">Refund Policy</a></li>
+	<li><a href="https://www.healthynaturals.co/shipping-returns">Shipping & Returns</a></li>
+	<li><a href="https://www.healthynaturals.co/terms-conditions">Terms & Conditions</a></li>
+</ul>
+
+
+<ul class="footsicon">
+<li><a href="https://www.facebook.com/healthynaturals/"><i class="fa fa-facebook" target="_blank"></i></a></li>
+<li><a href="https://www.instagram.com/thehealthynaturals/"><i class="fa fa-instagram"></i></a></li>	
+<li><a href="https://twitter.com/tweetsofhealthy"><i class="fa fa-twitter"></i></a></li>
+<li><a href="#"><i class="fa fa-youtube"></i></a></li>
+</ul>
+
+
+
+https://www.healthynaturals.co/disclaimer/
+https://www.healthynaturals.co/privacy-policy/
+https://www.healthynaturals.co/return-and-refund-policy/
+https://www.healthynaturals.co/terms-and-conditions/
+
+
+
+
+<ul style="line-height: 22px;">
+<li><a href="https://www.healthynaturals.co/about-us">About Us</a></li>
+<li><a href="https://www.healthynaturals.co/contact-us">Contact Us</a></li>
+<li><a href="https://www.healthynaturals.co/order-tracking">Track Your Order</a></li>
+</ul>
+
+
+
+.ani-square-1{background-image:url('http://designexpress.xyz/wp-content/uploads/2019/07/2-4.png'); background-position:center; background-size: cover;}
+.ani-square-2{background-image:url('http://designexpress.xyz/wp-content/uploads/2019/07/why-01.png'); background-position:center; background-size: cover;}
+.ani-square-3{background-image:url('http://designexpress.xyz/wp-content/uploads/2019/07/why-02.png'); background-position:center; background-size: cover;}
+.ani-square-4{background-image:url('http://designexpress.xyz/wp-content/uploads/2019/07/why-03.png'); background-position:center; background-size: cover;}
+.ani-square-5{background-image:url('http://designexpress.xyz/wp-content/uploads/2019/07/why-04.png'); background-position:center; background-size: cover;}
+.ani-square-6{background-image:url('http://designexpress.xyz/wp-content/uploads/2019/07/why-05.png'); background-position:center; background-size: cover;}
+.ani-square-7{background-image:url('http://designexpress.xyz/wp-content/uploads/2019/07/why-06.png'); background-position:center; background-size: cover;}
+.ani-square-8{background-image:url('http://designexpress.xyz/wp-content/uploads/2019/07/why-07.png'); background-position:center; background-size: cover;}
+.square-box{width: 230px;
+
+
+
+
